@@ -1,0 +1,5 @@
+<script>start("c:\\Users\\maria.ljesus\\Desktop\\marialuiza\\img\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("imagem1.jpeg","imagem1.jpeg",0,43162,"42.2 kB",1742230395,"3/17/25, 1:53:15 PM");</script>
+<script>addRow("imagem2.jpeg","imagem2.jpeg",0,40996,"40.0 kB",1742230417,"3/17/25, 1:53:37 PM");</script>
+<script>addRow("imagem3.jpeg","imagem3.jpeg",0,129942,"127 kB",1742230433,"3/17/25, 1:53:53 PM");</script>
